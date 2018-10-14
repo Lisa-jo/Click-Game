@@ -1,0 +1,82 @@
+[
+  {
+    "band": "brent",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/brent.png?raw=true"
+  },
+
+  {
+    "band": "david",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/david.png?raw=true"
+  },
+
+  {
+    "band": "elton",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/elton.png?raw=true"
+  },
+
+  {
+    "band": "fivefinger",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/fivefinger.png?raw=true"
+  },
+
+  {
+    "band": "freddy",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/freddy.png?raw=true"
+  },
+
+  {
+    "band": "ironmaiden",
+    "image":  
+     "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/ironmaiden.png?raw=true"
+  },
+
+  {
+    "band": "james",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/james.png?raw=truee"
+  },
+
+  {
+    "band": "kevin",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/kevin.png?raw=true"
+  },
+
+  {
+    "band": "ozzy",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/ozzy.png?raw=true"
+  },
+
+  {
+    "band": "rob",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/rob.png?raw=true"
+  },
+
+  {
+    "band": "seger",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/seger.png?raw=true"
+  },
+
+  {
+    "band": "volbeat",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/volbeat.png?raw=true"
+  }, 
+
+  {
+    "band": "layne",
+    "image": "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/layne.jpg?raw=true"
+  }, 
+
+  {
+    "band": "kurt",
+     "image":
+     "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/kurt.jpg?raw=true"
+    
+  }, 
+
+  {
+    "band": "foo",
+     "image":
+
+  "https://github.com/Lisa-jo/Click-Game/blob/master/react-click/public/images/foo.jpg?raw=true"
+  }
+  
+ ]
